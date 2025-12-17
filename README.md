@@ -16,6 +16,11 @@ Design, compare, and ship AI-driven messaging with live templates, model insight
 | Area | Notes |
 | --- | --- |
 | Platforms reviewed | Vercel AI SDK, Anthropic Console, Notion AI, Typeface |
+
+Vercel AI SDK – strong orchestration + streaming patterns.
+Anthropic Console – clean model comparison UX and guardrails.
+Notion AI – template-driven flows + collaborative editing cues.
+Typeface – polished storytelling layouts and tone controls.
 | Chosen features | Template rail, model comparison desk, timeline-style chat, theme toggle, JSON export |
 | Tailwind mapping | Soft desert color palette via CSS custom properties, rounded “pill” buttons (`EdgeButton`), glassmorphic containers |
 
@@ -82,7 +87,7 @@ npm run dev
 ---
 
 ## Deployment
-
+https://ai-plat-4eb0eafol-kiranb9555s-projects.vercel.app/
 Deploy on Vercel or any Next-compatible host:
 
 ```bash
