@@ -26,7 +26,7 @@ Typeface – polished storytelling layouts and tone controls.
 
 ## 2. Design
 
-- **Figma / XD mockup:** _Insert share link or screenshots here_  
+- **Figma / XD mockup:** https://www.figma.com/design/VWlzxZSJjV76TrHayHAC9L/Untitled?node-id=0-1&t=fscZsIBzQigxI7Rs-1
 - **Responsive grid:** `lg:grid-cols-[280px_minmax(0,1fr)_320px]` keeps template, chat, and model panes visible on desktop; collapses to stacked layout <1024px.  
 - **Motion system:** floating gradient background + hover translations; focus-visible outlines for keyboard users.  
 - **Theme system:** custom `ThemeProvider` persists preference in `localStorage` and syncs to `data-theme` attributes for CSS vars.
